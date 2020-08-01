@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532618105581",
+    "firebase_url": "https://game-65af7.firebaseio.com",
+    "project_id": "game-65af7",
+    "storage_bucket": "game-65af7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532618105581:android:90a0977c48378e0741b2e4",
+        "android_client_info": {
+          "package_name": "com.ASInteractive.MoneyHugger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532618105581-o7ue8k3nucrtio6e4llp87lbaseji97d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8JaUOEE8ZetKWDStoM62qfJxYlU0PW3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532618105581-o7ue8k3nucrtio6e4llp87lbaseji97d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532618105581-6s3i24p1vv73mmqo58mffe3nde6bbc3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ASInteractive.MoneyHugger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

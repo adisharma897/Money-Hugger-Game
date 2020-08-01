@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id"          translatable="false">532618105581-o7ue8k3nucrtio6e4llp87lbaseji97d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url"          translatable="false">https://game-65af7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId"            translatable="false">532618105581</string>
+    <string name="google_api_key"                 translatable="false">AIzaSyD8JaUOEE8ZetKWDStoM62qfJxYlU0PW3g</string>
+    <string name="google_app_id"                  translatable="false">1:532618105581:android:90a0977c48378e0741b2e4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8JaUOEE8ZetKWDStoM62qfJxYlU0PW3g</string>
+    <string name="google_storage_bucket"          translatable="false">game-65af7.appspot.com</string>
+    <string name="project_id"                     translatable="false">game-65af7</string>
+</resources>

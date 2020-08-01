@@ -1,0 +1,15 @@
+#!/usr/bin/python
+
+import shutil, errno ,dircache, os , sys ,syslog
+
+from xcodelinker import XcodeProject
+
+sorce = os.getcwd()+'/Assets/Editor/WRPiOSUtilities'
+
+project = XcodeProject.Load(sys.argv[1]+'/Unity-iPhone.xcodeproj/project.pbxproj')
+
+project.add_folder(sorce, excludes=["^.*\.DS_Store$"])
+
+project.add_file_if_doesnt_exist('System/Library/Frameworks/UIKit.framework', tree='SDKROOT')
+
+project.saveFormat3_2()
